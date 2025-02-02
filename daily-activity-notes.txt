@@ -3,7 +3,9 @@
 31/01/2025 - researching about web animation
            - learning rive
 
-02/1/2025 - go to campus with my friend to coordinate about datamining grades (morning to afternoon)
-          - learnig basic rive import
-          - experimenting rive animation and implemented to website with react next js
-          - checking my grades college
+01/02/2025 - go to campus with my friend to coordinate about datamining grades (morning to afternoon)
+           - learnig basic rive import
+           - experimenting rive animation and implemented to website with react next js
+           - checking my grades college
+
+02/02/2025 - learning rive basic
