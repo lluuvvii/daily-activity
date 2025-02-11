@@ -28,3 +28,5 @@
            - research design
 
 10/02/2025 - research design
+
+11/02/2025 - designing personal web proto figma
