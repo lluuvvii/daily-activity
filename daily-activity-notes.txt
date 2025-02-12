@@ -30,3 +30,6 @@
 10/02/2025 - research design
 
 11/02/2025 - designing personal web proto figma
+
+12/02/2025 - update design personal web proto figma
+           - update code personal web
