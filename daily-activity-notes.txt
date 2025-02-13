@@ -33,3 +33,6 @@
 
 12/02/2025 - update design personal web proto figma
            - update code personal web
+
+13/02/2025 - receive bnsp junior web developer certificate
+           - update design select menu next js
