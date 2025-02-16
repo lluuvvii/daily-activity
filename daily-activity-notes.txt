@@ -40,3 +40,5 @@
 14/02/2025 - continue coding design select menu next js
 
 15/02/2025 - thinking about life
+
+16/02/2025 - coding select menu personal web next js
