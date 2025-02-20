@@ -46,3 +46,12 @@
 17/02/2025 - coding select menu personal web next js
            - research animation design
            - update accuration angle text menu personal web
+
+18/02/2025 - coding select menu personal web next js
+           - update accration, design, animation
+
+19/02/2025 - coding select menu personal web next js
+           - update animation, design
+
+20/02/2025 - coding select menu personal web next js
+           - update animation material
