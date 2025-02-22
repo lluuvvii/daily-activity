@@ -55,3 +55,7 @@
 
 20/02/2025 - coding select menu personal web next js
            - update animation material
+
+21/02/2025 - research design css
+           - recheck react native app code to prepare presentation
+           - reactivate firebase
