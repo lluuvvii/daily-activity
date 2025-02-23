@@ -63,3 +63,5 @@
 22/02/2025 - learning japanese language tips
 
 23/02/2025 - fixing when windows booting it's enter to grub GNU, with enter to bios setting bootloader
+           - calling my teacher to disscuss LKS
+           - coding select menu personal website next js
