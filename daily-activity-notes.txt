@@ -65,3 +65,7 @@
 23/02/2025 - fixing when windows booting it's enter to grub GNU, with enter to bios setting bootloader
            - calling my teacher to disscuss LKS
            - coding select menu personal website next js
+           - learning japanese language tips
+
+24/02/2025 - go to campus 10pm
+           - coding my personal web next js
