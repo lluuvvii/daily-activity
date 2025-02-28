@@ -76,3 +76,6 @@
 
 26/02/2025 - go to campus at 10pm
            - learning japanese tips
+
+27/02/2025 - learning japanese tips
+           - coding menu select personal web next js
