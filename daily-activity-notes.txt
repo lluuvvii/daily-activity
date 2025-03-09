@@ -110,3 +110,7 @@
 08/03/2025 - little update web personal next js
            - learning japanese tips
            - learning japanese words & kanji
+
+09/03/2025 - learning japanese tips
+           - update web personal next js
+           - learning japanese words
