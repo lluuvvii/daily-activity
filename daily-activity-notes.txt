@@ -118,3 +118,4 @@
 10/03/2025 - learning japanese tips
            - update web personal next js
            - learning japanese words & kanji
+.
