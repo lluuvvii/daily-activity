@@ -133,3 +133,5 @@
            - learning kanji
            - go to campus at 10am
            - update personal web next js
+
+16/03/2025 - learning japanese tips
