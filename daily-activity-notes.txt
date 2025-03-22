@@ -151,3 +151,6 @@
 
 21/03/2025 - learning japanese tips
            - research to buy minna no nihongo
+
+22/03/2025 - learning bunpou
+           - update personal web next js
