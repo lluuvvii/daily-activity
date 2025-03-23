@@ -154,3 +154,6 @@
 
 22/03/2025 - learning bunpou
            - update personal web next js
+
+23/03/2025 - learning japanese tips
+           - update personal web next js
