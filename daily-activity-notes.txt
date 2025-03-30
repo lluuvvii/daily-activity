@@ -176,3 +176,6 @@
 
 29/03/2025 - learning japanese
            - minna no nihongo ch 5 - ch 6
+
+30/03/2025 - update personal web next js
+           - prepare for eid mubarak
