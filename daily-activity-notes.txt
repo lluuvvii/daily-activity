@@ -202,3 +202,6 @@
 
 08/04/2025 - learning japanese
            - update personal web next js
+
+09/04/2025 - learning japanese
+           - minna no nihongo ch 7 mondai
