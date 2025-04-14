@@ -211,6 +211,7 @@
 
 11/04/2025 - learning japanese
            - go to campus at 9 am
+           - learning kanji
            - write kanji basic
            - reread minna no nihongo < ch 7
 
@@ -218,3 +219,7 @@
 
 13/04/2025 - learning japanese
            - review minna no nihongo < ch 7
+
+14/05/2025 - learning japanese
+           - learning kanji
+           - update personal web next js
