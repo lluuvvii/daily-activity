@@ -231,3 +231,6 @@
            - update personal web next js
            - learning japanese
            - review minna no nihongo < ch7
+
+17/04/2025 - learning japanese
+           - learning germany
