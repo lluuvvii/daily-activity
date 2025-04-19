@@ -1,35 +1,35 @@
 **FORMAT DATE : DD/MM/YY**
 
-31/01/2025 - researching about web animation
-           - learning rive
+31/01/2025 - research about web animation
+           - learn rive
 
-01/02/2025 - go to campus with my friend to coordinate about datamining grades (morning to afternoon)
+01/02/2025 - go to campus with my friend to coordinate about datamin grades (morn to afternoon)
            - learnig basic rive import
-           - experimenting rive animation and implemented to website with react next js
-           - checking my grades college
+           - experiment rive animation and implemented to website with react next js
+           - check my grades college
 
-02/02/2025 - learning rive basic
+02/02/2025 - learn rive basic
 
-03/02/2025 - learning about rive & research references
+03/02/2025 - learn about rive & research references
 
 04/02/2025 - research design
 
 05/02/2025 - research design
 
 06/02/2025 - research design
-           - learning rive
+           - learn rive
 
 07/02/2025 - research design
-           - learning rive
+           - learn rive
 
 08/02/2025 - research design
 
-09/02/2025 - did nothing
+09/02/2025 - did noth
            - research design
 
 10/02/2025 - research design
 
-11/02/2025 - designing personal web proto figma
+11/02/2025 - design personal web proto figma
 
 12/02/2025 - update design personal web proto figma
            - update code personal web
@@ -37,144 +37,144 @@
 13/02/2025 - receive bnsp junior web developer certificate
            - update design select menu next js
 
-14/02/2025 - continue coding design select menu next js
+14/02/2025 - continue cod design select menu next js
 
-15/02/2025 - thinking about life
+15/02/2025 - think about life
 
-16/02/2025 - coding select menu personal web next js
+16/02/2025 - cod select menu personal web next js
 
-17/02/2025 - coding select menu personal web next js
+17/02/2025 - cod select menu personal web next js
            - research animation design
            - update accuration angle text menu personal web
 
-18/02/2025 - coding select menu personal web next js
+18/02/2025 - cod select menu personal web next js
            - update accration, design, animation
 
-19/02/2025 - coding select menu personal web next js
+19/02/2025 - cod select menu personal web next js
            - update animation, design
 
-20/02/2025 - coding select menu personal web next js
+20/02/2025 - cod select menu personal web next js
            - update animation material
 
 21/02/2025 - research design css
            - recheck react native app code to prepare presentation
            - reactivate firebase
 
-22/02/2025 - learning japanese language tips
+22/02/2025 - learn japanese language tips
 
-23/02/2025 - fixing when windows booting it's enter to grub GNU, with enter to bios setting bootloader
-           - calling my teacher to disscuss LKS
-           - coding select menu personal website next js
-           - learning japanese language tips
+23/02/2025 - fix when windows boot it's enter to grub GNU, with enter to bios sett bootloader
+           - call my teacher to disscuss LKS
+           - cod select menu personal website next js
+           - learn japanese language tips
 
 24/02/2025 - go to campus 10am
-           - coding my personal web next js
+           - cod my personal web next js
 
 25/02/2025 - go to campus 10am
            - pay college bills
-           - coding my personal web nex js
+           - cod my personal web nex js
 
 26/02/2025 - go to campus at 10pm
-           - learning japanese tips
+           - learn japanese tips
 
-27/02/2025 - learning japanese tips
-           - coding menu select personal web next js
+27/02/2025 - learn japanese tips
+           - cod menu select personal web next js
 
-28/02/2025 - learning japanese tips
+28/02/2025 - learn japanese tips
            - research design
 
-01/03/2025 - learning japanese tips
+01/03/2025 - learn japanese tips
            - start learn & read hiragana
 
-02/03/2025 - learning japanese tips
+02/03/2025 - learn japanese tips
            - start learn & katakana
 
-03/03/2025 - learning japanese tips
+03/03/2025 - learn japanese tips
            - strongly memorize & read katakana, hiragana
 
-04/03/2025 - learning japanese tips
+04/03/2025 - learn japanese tips
            - go to campus at 10am
            - got information about master's scholarships in Japan
 
-05/03/2025 - learning japanese tips
+05/03/2025 - learn japanese tips
            - go to campus at 10am
            - got a freelance project koperasi admin
 
-06/03/2025 - learning japanese tips
-           - coding projct koperasi admin
+06/03/2025 - learn japanese tips
+           - cod projct koperasi admin
 
-07/03/2025 - learning japanese tips
-           - learning japanese words
+07/03/2025 - learn japanese tips
+           - learn japanese words
            - try learn germany language
 
 08/03/2025 - little update web personal next js
-           - learning japanese tips
-           - learning japanese words & kanji
+           - learn japanese tips
+           - learn japanese words & kanji
 
-09/03/2025 - learning japanese tips
+09/03/2025 - learn japanese tips
            - update web personal next js
-           - learning japanese words
+           - learn japanese words
 
-10/03/2025 - learning japanese tips
+10/03/2025 - learn japanese tips
            - update web personal next js
-           - learning japanese words & kanji
+           - learn japanese words & kanji
 
-11/03/2025 - learning japanese tips & words
+11/03/2025 - learn japanese tips & words
 
-12/03/2025 - learning japanese tips & words
+12/03/2025 - learn japanese tips & words
 
-13/03/2025 - learning japanese tips & words
+13/03/2025 - learn japanese tips & words
 
-14/03/2025 - learning japanese tips & words
+14/03/2025 - learn japanese tips & words
            - update web personal next js
 
-15/03/2025 - learning japanese tips & words
-           - learning japanese sentence structure
-           - learning kanji
+15/03/2025 - learn japanese tips & words
+           - learn japanese sentence structure
+           - learn kanji
            - go to campus at 10am
            - update personal web next js
 
-16/03/2025 - learning japanese tips
+16/03/2025 - learn japanese tips
 
-17/03/2025 - learning japanese tips
-           - learning japanese sentence structure
-           - learning kanji
+17/03/2025 - learn japanese tips
+           - learn japanese sentence structure
+           - learn kanji
 
-18/03/2025 - learning japanese tips
-           - learning japanese sentence structure
+18/03/2025 - learn japanese tips
+           - learn japanese sentence structure
 
-19/03/2025 - learning japanese tips
-           - learning japanese sentence structure
+19/03/2025 - learn japanese tips
+           - learn japanese sentence structure
 
-20/03/2025 - learning japanese tips
-           - learning japanese sentence structure
+20/03/2025 - learn japanese tips
+           - learn japanese sentence structure
 
-21/03/2025 - learning japanese tips
+21/03/2025 - learn japanese tips
            - research to buy minna no nihongo
 
-22/03/2025 - learning bunpou
+22/03/2025 - learn bunpou
            - update personal web next js
 
-23/03/2025 - learning japanese tips
+23/03/2025 - learn japanese tips
            - update personal web next js
 
-24/03/2025 - learning japanese
+24/03/2025 - learn japanese
 
-25/03/2025 - learning japanese
+25/03/2025 - learn japanese
            - minna no nihongo ch 1
 
-26/03/2025 - learning japanese
+26/03/2025 - learn japanese
            - self-taught japanese ch 15 onbinkei 1 to shiyo
            - minna no nihongo ch 2
 
-27/03/2025 - learning japanese
+27/03/2025 - learn japanese
            - self-taught japanese ch 16
            - minna no nihongo ch 2
 
-28/03/2025 - learning japanese
+28/03/2025 - learn japanese
            - minna no nihongo ch 3 - ch 4
 
-29/03/2025 - learning japanese
+29/03/2025 - learn japanese
            - minna no nihongo ch 5 - ch 6
 
 30/03/2025 - update personal web next js
@@ -190,38 +190,38 @@
 03/04/2025 - update personal web next js
 
 04/04/2025 - oil change at 516787km
-           - learning japanese
+           - learn japanese
 
-05/04/2025 - learning japanese
+05/04/2025 - learn japanese
 
-06/04/2025 - learning japanese
+06/04/2025 - learn japanese
            - minna no nihongo ch 7 renshuu c checkpoint
 
-07/04/2025 - learning japanese
+07/04/2025 - learn japanese
            - update personal web next js
 
-08/04/2025 - learning japanese
+08/04/2025 - learn japanese
            - update personal web next js
 
-09/04/2025 - learning japanese
+09/04/2025 - learn japanese
            - minna no nihongo ch 7 mondai
 
-10/04/2025 - learning japanese
+10/04/2025 - learn japanese
            - minna no nihongo ch 7 fukushuu b
 
-11/04/2025 - learning japanese
+11/04/2025 - learn japanese
            - go to campus at 9 am
-           - learning kanji
+           - learn kanji
            - write kanji basic
            - reread minna no nihongo < ch 7
 
-12/04/2025 - learning japanese
+12/04/2025 - learn japanese
 
-13/04/2025 - learning japanese
+13/04/2025 - learn japanese
            - review minna no nihongo < ch 7
 
-14/04/2025 - learning japanese
-           - learning kanji
+14/04/2025 - learn japanese
+           - learn kanji
            - update personal web next js
 
 15/04/2025 - research book > N4
@@ -229,8 +229,10 @@
 16/04/2025 - research book > N4
            - research design
            - update personal web next js
-           - learning japanese
+           - learn japanese
            - review minna no nihongo < ch7
 
-17/04/2025 - learning japanese
-           - learning germany
+17/04/2025 - learn japanese
+           - learn germany
+
+18/04/2025 - learn japanese
