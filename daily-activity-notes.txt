@@ -274,3 +274,5 @@
            - minna no nihongo ch8
 
 29/04/2025 - update personal web next js
+           - learn japanese
+           - minna no nihongo ch9
