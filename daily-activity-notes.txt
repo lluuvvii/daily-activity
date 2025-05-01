@@ -276,3 +276,6 @@
 29/04/2025 - update personal web next js
            - learn japanese
            - minna no nihongo ch9
+
+30/04/2025 - learn japanese
+           - minna no nihongo ch9
