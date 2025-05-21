@@ -345,3 +345,6 @@
 
 20/05/2025 - learn japanese
            - setting up new phone
+
+21/05/2025 - learn japanese
+           - update personal web next js
