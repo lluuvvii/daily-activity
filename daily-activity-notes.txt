@@ -363,3 +363,6 @@
 
 27/05/2025 - learn english
            - learn kanji
+
+28/05/2025 - learn kanji
+           - setup anki deck
