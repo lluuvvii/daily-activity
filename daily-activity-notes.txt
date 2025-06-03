@@ -385,3 +385,5 @@
 02/06/2025 - learn japanese
            - anki 400 review
            - update react native app
+
+03/06/2025 - update react native app
