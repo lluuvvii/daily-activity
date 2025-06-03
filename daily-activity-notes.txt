@@ -387,3 +387,4 @@
            - update react native app
 
 03/06/2025 - update react native app
+           - anki 450 review
