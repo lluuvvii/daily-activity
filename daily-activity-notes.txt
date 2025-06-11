@@ -407,3 +407,4 @@
 09/06/2025 - learn japanese
 
 10/06/2025 - update personal web next js
+           - learn japanese
