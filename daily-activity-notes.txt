@@ -408,3 +408,6 @@
 
 10/06/2025 - update personal web next js
            - learn japanese
+
+11/06/2025 - online meeting kkn
+           - update personal web next js
