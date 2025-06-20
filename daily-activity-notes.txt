@@ -427,3 +427,6 @@
            - kkn war location
 
 18/06/2025 - learn japanese
+
+19/06/2025 - learn japanese
+           - anki setup
