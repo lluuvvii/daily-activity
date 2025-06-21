@@ -430,3 +430,5 @@
 
 19/06/2025 - learn japanese
            - anki setup
+
+20/06/2025 - anki setup
